@@ -1,0 +1,22 @@
+{
+  "name": "densmillions_bot",
+  "version": "0.0.0",
+  "description": "Calculation",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "keywords": [
+    "calculation"
+  ],
+  "author": "Aliaksei Zhemoita",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "telegraf": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
